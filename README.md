@@ -121,4 +121,4 @@ Specify your license here, e.g., MIT License.
 ## Contact
 
 Yamini-datascientist – [yamini.rc59@gmail.com] 
-Project Link: https://github.com/yourusername/llm-pdf-qa
+Project Link: https://github.com/yamini-datascientist/llm-pdf-qa
